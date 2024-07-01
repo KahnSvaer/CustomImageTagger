@@ -45,7 +45,7 @@ def enter_image():
 
 
 window = Tk()
-window.title("Custom Image Annotator")
+window.title("Custom Image Tagger")
 window.config(bg="black")
 
 image_label = Label(width=300, height=300)
