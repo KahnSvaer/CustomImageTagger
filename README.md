@@ -1,4 +1,4 @@
-# Custom Image Annotator
+# Custom Image Tagger
 
 A simple custom image annotator tool built with Python using the Tkinter and PIL libraries. This tool allows users to annotate images by providing input values, which are saved to a CSV file.
 
